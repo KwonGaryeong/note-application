@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import '../add_page/add_page.dart';
 import 'package:get/get.dart';
 
 class MainPage extends StatelessWidget {
